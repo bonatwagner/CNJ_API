@@ -4,6 +4,7 @@
 # Carrega pacotes
 library(plumber)
 library(dplyr)
+library(shiny)
 
 #* @apiTitle API de Filtro de Dados
 #* @apiDescription Filtra o data set mtcars com base em parâmetros fornecidos na URL.
